@@ -73,7 +73,10 @@ This project demonstrates the setup and configuration of a multi-server environm
   
 
 
-![Screenshot 2023-06-18 170135](https://github.com/harshartz/Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2/assets/130890384/0c673d82-cc1b-47b9-a71a-7f108cb61155)
+     ![kiqm0g2p](https://github.com/vikasbharatha/ansible-Orchestrated/assets/130053864/318b2b80-5d67-4659-a776-23312efce407)
+
+
+
 
 
 # ansible-Orchestrated
