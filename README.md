@@ -71,12 +71,9 @@ This project demonstrates the setup and configuration of a multi-server environm
    - Access the IP addresses of `server-1`, `server-2`, and `server-3` in a web browser.
    - You should see the default Apache page indicating a successful deployment.
   
-
-
-     ![kiqm0g2p](https://github.com/vikasbharatha/ansible-Orchestrated/assets/130053864/318b2b80-5d67-4659-a776-23312efce407)
+![kiqm0g2p](https://github.com/vikasbharatha/ansible-Orchestrated/assets/130053864/318b2b80-5d67-4659-a776-23312efce407)
 
 
 
 
 
-# ansible-Orchestrated
